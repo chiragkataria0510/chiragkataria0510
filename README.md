@@ -2,20 +2,16 @@
 <h3 align="center">Machine Learning Enthusiast | Web Developer | Python Dev </h3> 
 
 
-- ✌ My name is Chirag Kataria and I am currently pursuing a Bachelor of Technology in Computer Science.** 
+- ✌ My name is Chirag Kataria and I am currently pursuing a Bachelor of Technology in Computer Science.
 
-- Achivements
-01) Microsoft Engage Mentee (4 weeks mentorship)
-02) Research Paper on Crime Prevention system using Facial Recognition has been accepted for publication in INDIAN JOURNAL OF APPLIED RESEARCH  for the 1st September 2022 issue. 
-03) Winner of Venture It Product Design competition organized by IIIT Delhi
-04) Project: Developed an IOT Application that analyzes and predicts machine efficiency in real-time using sensor data. Currently installed at Magneti Marelli plant at Manesar.
+- Experience
+01) Former Google Intern
+02) Project: Developed an IOT Application that analyzes and predicts machine efficiency in real-time using sensor data. Currently installed at Magneti Marelli plant at Manesar.
 TechStack:
 ● Programming: C++, Python
 ● Backend & Database: Node.js, MongoDB
 ● Frontend: React, HTML, CSS & Material UI
-
-
-06) State Level Swimmer
+03) State Level Swimmer
 
 
 - 👨‍💻 All of my projects are available at [https://github.com/chiragkataria0510](https://github.com/chiragkataria0510)
